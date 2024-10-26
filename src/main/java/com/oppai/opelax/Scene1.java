@@ -13,8 +13,7 @@ public class Scene1 {
     protected void onHelloButtonClick() {
         welcomeText.setText("Welcome to JavaFX Application!");
     }
-    @FXML
-    private Panel identifying;
+
 
 
 }
