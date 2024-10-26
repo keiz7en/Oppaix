@@ -3,7 +3,7 @@ package com.oppai.opelax;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-
+import java.awt.*;
 
 public class Scene1 {
     @FXML
